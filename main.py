@@ -14,7 +14,7 @@ TEXT = (
     "It worked on my machine \u2014 "
     "where the database is a text file, "
     "the only user is me, "
-    "and the load balancer is my cat, "
+    "and the load balancer is my cat "
     "asleep on the keyboard."
 )
 
